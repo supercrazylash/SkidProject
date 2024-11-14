@@ -3,7 +3,7 @@
 ## Indice
 
 1. [Capa](capa.md)
-2. [Agradecimentos-facultativo](agradecimentos.md)
+2. [Agradecimentos](agradecimentos.md)
 3. [Resumo e palavras chave](resumoepalavraschave.md)
 4. [Índice(s)](Índice(s).md)
 5. [Introdução](Introdução.md)
