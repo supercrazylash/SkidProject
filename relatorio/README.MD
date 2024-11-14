@@ -2,12 +2,12 @@
 
 ## Indice
 
-1. [capa](morte.md)
-2. [agradecimentos]facultativo
-3. [resumo e palavras chave]
-4. [Índice(s)]
-5. [Introdução]
-6. [Metodologias]
-7. [Resultados esperados]
-8. [Referências bibliográficas]
+1. [Capa](capa.md)
+2. [Agradecimentos]-facultativo (agradecimentos)
+3. [Resumo e palavras chave] (resumo e palavras chave)
+4. [Índice(s)] (Índice(s))
+5. [Introdução] (Introdução)
+6. [Metodologias] (Metodologias)
+7. [Resultados esperados] (Resultados esperados)
+8. [Referências bibliográficas] (Referências bibliográficas)
 
