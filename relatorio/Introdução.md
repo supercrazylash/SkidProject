@@ -36,9 +36,9 @@ existentes
 
 - Sistema de Controle com Motores BLDC (Brushless DC):
 
-   Alta estabilidade e controle preciso
-   Controle remoto sem peças externas
-   Menor necessidade de manutenção
+   - Alta estabilidade e controle preciso
+   - Controle remoto sem peças externas
+   - Menor necessidade de manutenção
 
 - Sistemas de Propulsão e Estabilidade Inovadores :
 
