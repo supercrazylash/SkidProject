@@ -23,25 +23,36 @@ Temos como objetivo:
 ## Aspetos inovadores ou vantagens em relação a soluções já
 existentes
 - Propulsão por Magneto-hidrodinâmica:
+
    Sem partes móveis
    Maior eficiência e menor ruído
    Tecnologia limpa e ecológica
-- Design e Estrutura em Impressão 3D com ABS
+
+- Design e Estrutura em Impressão 3D com ABS :
+
    Customização e flexibilidade
    Redução de peso e resistência
    Sustentabilidade
+
 - Sistema de Controle com Motores BLDC (Brushless DC):
+
    Alta estabilidade e controle preciso
    Controle remoto sem peças externas
    Menor necessidade de manutenção
-- Sistemas de Propulsão e Estabilidade Inovadores
+
+- Sistemas de Propulsão e Estabilidade Inovadores :
+
    Sistemas integrados e compactos
    Maior manobrabilidade
+
 - Tecnologia Disruptiva e Potencial para Novas Aplicações:
+
    Inovação no design e aplicação de MHD
    Potencial de adaptação para outras plataformas
-- Redução de Impacto Ambiental
+
+- Redução de Impacto Ambiental :
    Sistemas de propulsão mais ecológicos
    Eficiência energética
+
 ## Parcerias
 (-----)
