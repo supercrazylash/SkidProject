@@ -24,15 +24,15 @@ Temos como objetivo:
 existentes
 - Propulsão por Magneto-hidrodinâmica:
 
-   Sem partes móveis
-   Maior eficiência e menor ruído
-   Tecnologia limpa e ecológica
+   - Sem partes móveis
+   - Maior eficiência e menor ruído
+   - Tecnologia limpa e ecológica
 
 - Design e Estrutura em Impressão 3D com ABS :
 
-   Customização e flexibilidade
-   Redução de peso e resistência
-   Sustentabilidade
+   - Customização e flexibilidade
+   - Redução de peso e resistência
+   - Sustentabilidade
 
 - Sistema de Controle com Motores BLDC (Brushless DC):
 
@@ -42,17 +42,18 @@ existentes
 
 - Sistemas de Propulsão e Estabilidade Inovadores :
 
-   Sistemas integrados e compactos
-   Maior manobrabilidade
+   - Sistemas integrados e compactos
+   - Maior manobrabilidade
 
 - Tecnologia Disruptiva e Potencial para Novas Aplicações:
 
-   Inovação no design e aplicação de MHD
-   Potencial de adaptação para outras plataformas
+   - Inovação no design e aplicação de MHD
+   - Potencial de adaptação para outras plataformas
 
 - Redução de Impacto Ambiental :
-   Sistemas de propulsão mais ecológicos
-   Eficiência energética
+
+   - Sistemas de propulsão mais ecológicos
+   - Eficiência energética
 
 ## Parcerias
 (-----)
