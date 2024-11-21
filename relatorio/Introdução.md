@@ -21,8 +21,7 @@ O professor recomendou a ideia e nós adoramos a ideia de fazer embarcações, m
 - Indústria naval e de embarcações
 - serviços de resgate e emergência marinha
 - setor naval militar
-## Aspetos inovadores ou vantagens em relação a soluções já
-existentes
+## Aspetos inovadores ou vantagens em relação a soluções já existentes
 - Propulsão por Magneto-hidrodinâmica:
 
    - Sem partes móveis
