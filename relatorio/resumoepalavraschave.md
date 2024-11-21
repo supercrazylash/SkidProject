@@ -14,4 +14,4 @@ Nós escolhemos estas palavras-chave que estão diretamente relacionadas com o t
 - Navegação autónoma
 - Estrutura estável
 - Design modular
-- §Automação de controle remoto
+- Automação de controle remoto
