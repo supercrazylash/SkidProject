@@ -2,7 +2,7 @@
 ## Tema
 Tamos a investigar um barco sem peças moveis no exterior.
 ## Objeto de estudo
-Um barco
+O objeto de estudo do seu projeto é o desenvolvimento e análise de uma embarcação movida por um sistema de propulsão inovador, composto por tecnologias como Magnetohidrodinâmica (MHD) e motores BLDC (Brushless DC), com uma estrutura impressa em 3D usando ABS
 ## Questão inicial
 Será possível fazer um barco com estabilidade suficiente para não ser afetado por correntes, ventos e ondas?
 ## Objetivo do estudo
@@ -20,7 +20,7 @@ Temos como objetivo:
 - Universidades e centros de pesquisa
 - Investidores em tecnologias sustentáveis e inovadoras
 - Educadores e estudantes de engenharia
-##Aspetos inovadores ou vantagens em relação a soluções já
+## Aspetos inovadores ou vantagens em relação a soluções já
 existentes
 - Propulsão por Magnetohidrodinâmica:
  - Sem partes móveis
@@ -43,5 +43,5 @@ existentes
 - Redução de Impacto Ambiental
  - Sistemas de propulsão mais ecológicos
  - Eficiência energética
-##Parcerias
+## Parcerias
 (-----)
