@@ -42,7 +42,7 @@ O nosso relatório foi feito em markdown e exportado para pdf e, tal como todos 
 - Fita Isoladora
 
 ## Cronograma de atividade atualizado
-(---)
+![cronograma](cronograma.png)
 
 ## Identificar o contributo individual de cada membro para o desenvolvimento do projeto	
 - João Ferreira
