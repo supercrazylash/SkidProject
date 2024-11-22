@@ -1,2 +1,4 @@
 # Resultados esperados
-Os resultados esperados deste projeto incluem a criação de um barco funcional com corpo impresso em 3D utilizando material ABS, impulsionado por um motor magneto-hidrodinâmico (MHD) que gera uma força de Lorentz suficiente para o deslocamento eficiente do barco. Espera-se que o sistema de propulsão inovador permita um movimento fluido e silencioso, eliminando componentes externos móveis. Além disso, o uso de três motores BLDC com pesos circulares maquinados, projetados para aumentar a estabilidade e permitir controle remoto preciso de direção e rotação, deve proporcionar um nível elevado de estabilidade e manobrabilidade, garantindo um desempenho confiável e inovador do protótipo.
+Esperamos até ao fim do período ter um sistema elétronico funcional numa breadboard com um motor, um MHD e um raspberry pi, tudo alimentado a partir de uma única bateria S3. Também procuramos ter um primeiro prototipo funcional no final de Janeiro.
+
+O nosso objetivo final é um barco sem peças moveis no exterior que utilize reaction wheels para virar e estabilizar-se e um MHD como meio de propulsão.
