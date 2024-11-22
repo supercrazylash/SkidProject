@@ -17,7 +17,7 @@ A testes do MHD passou pela submersão deste numa caixa cheia de água salgada �
 ### Modelação 3D
 A nossa modelação 3D foi feita no blender e neste momento temos modelos para os pesos das reaction wheels e para o exterior do chassis do primeiro prototipo, que pode ser vistos nas imagens abaixo.
 
-![Modelo Chassis](Chassis_model.png)
+![Modelo Chassis](Chassis_modelo.png)
 
 ### Relatório e File Sharing
 O nosso relatório foi feito em markdown e exportado para pdf e, tal como todos os nossos outros ficheiros e cronograma foi trabalhado e sincronizado entre membros da equipa utilizando o git com a plataforma de cloud hosting de git da microsoft "GitHub".
