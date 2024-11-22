@@ -2,16 +2,14 @@
 
 ## Resumo
 
-O nosso projeto consiste num barco cujo o corpo é feito à base de impressão 3D com um material abs cujo o seu movimento irá provir de um MHD (magnetohydrodynamic motor), feito por nós, que essencialmente consiste em duas barras de latão, dois ímanes e uma fonte de alimentação; isto por sua vez irá criar uma força de Lorentz que irá proporcionar o barco com intensidade suficiente para deslocar o barco.
-Para além disso, o nosso projeto irá ter no seu interior um total de 3 BLDC (brushless dc) motors que lhes irão ser inseridos pesos circulares maquinados de forma a serem mais grossos nas bordas que no centro; isto é feito com o objetivo que não só criar uma alta estabilidade no navio mas permitindo-nos virar e rodar este remotamente sem a necessidade de ter qualquer peça exterior de movimento.
+O nosso projeto consiste num barco que contem no seu interior um total de 3 BLDC (brushless dc) motors aos quais serão ligados pesos circulares, maquinados de forma a serem mais grossos nas bordas que no centro; este sistema tem por objetivo estabilizar navio perante más condições atmosféricas através da conservação do momento angular, permitindo-nos, também, alterar a atitude direcional deste sem a necessidade de ter qualquer peça exterior móvel, através da utilização dos pesos como reaction wheels.
+Para além disso, a propulsão do barco irá provir de um MHD (magnetohydrodynamic motor), montado por nós, constituido por duas barras de latão, dois ímanes e uma fonte de alimentação; Este motor funciona aplicando uma força de Lorentz sobre as particulas carregadas na água propulcionando assim a embarcação.
 
 ## Palavras chave
 
 Nós escolhemos estas palavras-chave que estão diretamente relacionadas com o tema de trabalho:
 
-- Sistemas eletromagnéticos
-- Propulsão elétrica
-- Navegação autónoma
-- Estrutura estável
-- Design modular
-- Automação de controle remoto
+1. Reaction Wheels
+1. Estabilização de Embarcações
+1. Propulsão Eletromagnética
+1. Navio Resistente
