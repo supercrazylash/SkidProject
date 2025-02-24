@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CM4")(type "KiCad")(uri "${KIPRJMOD}/libraries/RPi-CM4-Kicad-master/Raspberry_Pi_Compute_Module_4.kicad_sym")(options "")(descr ""))
+  (lib (name "MCT8316")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCT8316A1VRGFR/KiCADv6/2025-01-30_12-50-42.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS566238PRQFR")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS566238PRQFR/KiCADv6/2025-02-10_18-54-54.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61288RQQR")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS61288RQQR/KiCADv6/2025-02-13_12-09-18.kicad_sym")(options "")(descr ""))
+  (lib (name "LM5117")(type "KiCad")(uri "${KIPRJMOD}/libraries/LM5117PSQ_NOPB/KiCADv6/2025-02-13_17-38-49.kicad_sym")(options "")(descr ""))
+  (lib (name "SIC461")(type "KiCad")(uri "${KIPRJMOD}/libraries/SIC461ED_T1_GE3/SIC461ED-T1-GE3.kicad_sym")(options "")(descr ""))
+  (lib (name "INA21x")(type "KiCad")(uri "${KIPRJMOD}/libraries/INA210AIDCKR/INA210AIDCKR.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP4531")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCP4531T_103E_MF/KiCADv6/2025-02-15_17-22-22.kicad_sym")(options "")(descr ""))
+  (lib (name "ΜΑΧ7368")(type "KiCad")(uri "${KIPRJMOD}/libraries/MAX7368EUE_/MAX7368EUET.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVC3G07DCUR")(type "KiCad")(uri "${KIPRJMOD}/libraries/SN74LVC3G07DCUR/SN74LVC3G07DCUR.kicad_sym")(options "")(descr ""))
+)

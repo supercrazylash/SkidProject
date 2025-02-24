@@ -1,0 +1,235 @@
+(footprint "SW_JS102011JCQN"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.326325 -3.138175 0)
+		(layer "F.SilkS")
+		(uuid "e40b25d2-ed22-43d2-aca6-a31f56d436ab")
+		(effects
+			(font
+				(size 1.001016 1.001016)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_JS102011JCQN"
+		(at 5.226775 3.666235 0)
+		(layer "F.Fab")
+		(uuid "739d0de1-e26d-42ea-b6a8-e87b741180b3")
+		(effects
+			(font
+				(size 1.000339 1.000339)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee9cdf9a-5c66-400f-aaf1-5708aaaafc95")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a9085fc9-85e8-4943-b32f-28ec88e51ad7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16fa6681-b18d-479b-8401-6a96495b6435")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.25 -1.8)
+		(end -0.88 -1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d174a915-fa9e-4336-a654-1c88235968a7")
+	)
+	(fp_line
+		(start -4.25 1.8)
+		(end -4.25 -1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "228cecf9-85cf-4e59-a070-126e04b7ead2")
+	)
+	(fp_line
+		(start 0.88 -1.8)
+		(end 4.25 -1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "abcced99-c2eb-43c8-ad98-c3f50f855c44")
+	)
+	(fp_line
+		(start 1.66 1.8)
+		(end -1.66 1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "52888559-0716-409f-a622-4ac57bf751fd")
+	)
+	(fp_line
+		(start 4.25 -1.8)
+		(end 4.25 1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "45879ae7-b125-4ace-80cd-c92945eb31de")
+	)
+	(fp_circle
+		(center -2.5 2.5)
+		(end -2.358581 2.5)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "129e83ae-2b21-48da-a538-b6cbf742b04d")
+	)
+	(fp_line
+		(start -4.5 -2.25)
+		(end 4.5 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "399315e8-9bdc-4149-b425-0c4198775fed")
+	)
+	(fp_line
+		(start -4.5 2.25)
+		(end -4.5 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f9c809a3-a7f6-4e5e-9b99-a2927b3bbda6")
+	)
+	(fp_line
+		(start 4.5 -2.25)
+		(end 4.5 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "99d39569-c9ec-4732-8143-49bbbc1de5f6")
+	)
+	(fp_line
+		(start 4.5 2.25)
+		(end -4.5 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2a193f5c-2538-4ba2-b06e-787fc47e9aa8")
+	)
+	(fp_line
+		(start -4.25 -1.8)
+		(end 4.25 -1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b736e24a-ee08-43fa-878c-0767960ca545")
+	)
+	(fp_line
+		(start -4.25 1.8)
+		(end -4.25 -1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5f2816d6-2876-413f-896e-ae0058c1ba65")
+	)
+	(fp_line
+		(start 4.25 -1.8)
+		(end 4.25 1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "416dc5f2-e278-45d8-ac68-aaf2eb36a13f")
+	)
+	(fp_line
+		(start 4.25 1.8)
+		(end -4.25 1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "64703c1d-f66b-4acd-9ef4-2ffccd8e751c")
+	)
+	(pad "1" smd rect
+		(at -2.5 1.2)
+		(size 1 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e2ba2dd2-9837-4cb8-9fb1-17225a36ee03")
+	)
+	(pad "2" smd rect
+		(at 0 -1.2)
+		(size 1 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "bf2bf5ba-25c1-4b2a-bf80-3195608fa8c2")
+	)
+	(pad "3" smd rect
+		(at 2.5 1.2)
+		(size 1 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7ac9fba8-0fe8-4a78-8e65-7cd8e56823b9")
+	)
+	(model "${KIPRJMOD}/libraries/JS102011JCQN/JS102011JCQN.step"
+		(offset
+			(xyz 0 0 1.8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 180 90)
+		)
+	)
+)
